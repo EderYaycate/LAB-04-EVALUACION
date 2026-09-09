@@ -3,5 +3,8 @@
 <img width="713" height="789" alt="image" src="https://github.com/user-attachments/assets/18ed93db-77da-4a1d-b147-844ecfdcc608" /> PRUEBA DE NUEVO MEDICO
 <img width="1919" height="1034" alt="image" src="https://github.com/user-attachments/assets/c04720ca-1f03-472f-9880-b93590cafbe2" /> CON FRONTEND
 <img width="1378" height="449" alt="image" src="https://github.com/user-attachments/assets/898447ab-efd8-4c9c-b865-22c290ad18a3" /> BD
+<img width="580" height="944" alt="image" src="https://github.com/user-attachments/assets/d7be13dd-8dd2-4c5e-9f85-724a616d07a3" /> Registrar médico
+
+
 
 
